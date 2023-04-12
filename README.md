@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Co18
-- 👀 I’m interested in using hacks macros and scripts that peapole mad efor free
-- 🌱 I’m currently learning python
+
